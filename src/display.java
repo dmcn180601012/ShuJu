@@ -1,7 +1,7 @@
 
 public class display {
 	public static void main(String[] args) {
-		System.out.println("javaoop ¼ì²â");
+		System.out.println("javaoop ¼ì²â hello word");
 	}
 
 }
